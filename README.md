@@ -21,3 +21,5 @@ Aspiring IT Support Specialist with over 3 years of customer service experience 
 ## Featured Projects
 
 ### Project 1: Network+ Wi-Fi Coffeeshop Installation
+Repository: 
+https://github.com/amendez136/WiFi-Coffeeshop-Installation-Project

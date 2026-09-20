@@ -12,14 +12,6 @@ Aspiring IT Support Specialist with over 3 years of customer service experience 
 - Professional Skills: Customer service & communication, problem-solving, time management, team collaboration
 
 ## Certifications
-- Service Desk Job Simulation at DATACOM, Forage – (2026)
-- Cybersecurity Operations Job Simulation at DATACOM, Forage – (2026)
 - CCNA: Introduction to Networks Digital Badge, Cisco Networking Academy – (2026)
 - CCNA: Introduction to Networks, Cisco Networking Academy – (2026)
 - IT Essential/Managing IT, Cisco Networking Academy – (2025)
-
-## Featured Projects
-
-### Project 1: Network+ Wi-Fi Coffeeshop Installation
-Repository: 
-https://github.com/amendez136/WiFi-Coffeeshop-Installation-Project

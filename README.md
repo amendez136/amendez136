@@ -1,7 +1,16 @@
-## Hello everyone! 👋
+## Hi, I'm Antonio Mendez! 👋
 
-## About Me
-Aspiring IT Support Specialist with over 3 years of customer service experience in high-volume environments. Solid foundation in troubleshooting, Windows environments, and networking fundamentals, with hands-on experience designing and documenting small-scale network projects. Currently seeking an entry-level IT support role, with long-term interest in cybersecurity.
+Cybersecurity student at Moraine Valley Community College.
+
+## Education
+- Moraine Valley Community College
+- Major: Cybersecurity
+
+## 🏆 Certifications & Badges
+- CCNA: Introduction to Networks (Digital Badge) | Cisco Networking Academy | 2026
+  - Verify: https://www.credly.com/badges/ad790bed-1eda-4406-98ba-d50793f8bf73/public_url
+- CCNA: Introduction to Networks (Course Completion Certificate) | Cisco Networking Academy | 2026
+- IT Essentials/Managing IT | Cisco Networking Academy | (2025)
 
 ## Skills
 - IT Support & Troubleshooting: Troubleshooting methodology, Password/account support, basic hardware and software support, remote support tools, documentation and ticketing system familiarity, end-user support
@@ -10,8 +19,3 @@ Aspiring IT Support Specialist with over 3 years of customer service experience 
 - Networking: TCP/IP, IP addressing, subnetting, VLAN fundamentals, wireless networking basics
 - Security & Tools: Malware awareness, endpoint protection basics, Wireshark, Cisco Packet Tracer
 - Professional Skills: Customer service & communication, problem-solving, time management, team collaboration
-
-## Certifications
-- CCNA: Introduction to Networks Digital Badge, Cisco Networking Academy – (2026)
-- CCNA: Introduction to Networks, Cisco Networking Academy – (2026)
-- IT Essential/Managing IT, Cisco Networking Academy – (2025)

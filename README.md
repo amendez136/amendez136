@@ -14,10 +14,15 @@ Cybersecurity student at Moraine Valley Community College.
 
 ## 🛠️ Technical Skills
 **Operating Systems:** Windows 10/11, Linux
+
 **Networking:** TCP/IP, IP Addressing, Subnetting, VLANs, Wireless Networking
+
 **Security:** Malware Awareness, Endpoint Protection, Security Fundamentals
+
 **Programming:** Python
+
 **Tools:** Wireshark, Cisco Packet Tracer, Git, GitHub
+
 **IT Support:** Troubleshooting, Hardware & Software Support, Remote Support
 
 

@@ -1,4 +1,4 @@
-## Hi, I'm Antonio Mendez! 👋
+## Hello everyone! 👋
 
 ## About Me
 Aspiring IT Support Specialist with over 3 years of customer service experience in high-volume environments. Solid foundation in troubleshooting, Windows environments, and networking fundamentals, with hands-on experience designing and documenting small-scale network projects. Currently seeking an entry-level IT support role, with long-term interest in cybersecurity.

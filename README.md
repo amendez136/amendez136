@@ -27,13 +27,11 @@ Designed a secure Wi-Fi 6 network infrastructure for a coffee shop supporting 40
 **Skills:** Network Design, VLANs, Wireless Networking, IP Addressing, WPA3 Security, QoS, Cisco Networking Concepts
 
 ### Browser Vendor Vulnerability Analysis
-Academic Project | Moraine Valley Community College
+Academic Project | Moraine Valley Community College | https://github.com/amendez136/Product_Vulnerability_Analysis
 
-Researched and compared major web browser vendors based on security features, vulnerability management, patching practices, and overall security posture. Produced a technical report with recommendations and supporting analysis.
-
-**Skills:** Cybersecurity Research, Vulnerability Analysis, Risk Assessment, Technical Writing
-
-To view, click **[presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Documents/Product%20Analysis%20Project%20(1).pptx?d=wa11c0b0307e249418f17fa85ee8f706e&csf=1&web=1&e=Hwu75i)** and **[analysis report](https://1drv.ms/w/c/279738157c85cbcf/IQCjBGAstlYgSLz5Kt_IzCL7AWVxsO2xSltL29yxQKnDImk?e=dlNKiT)**.
+Conducted a comparative security analysis of 3 browsers using vulnerability and CVSS data collected over a 10-year period. Evaluated browser security features, attack trends, and vulnerability management practices to develop security recommendations.
+ 
+**Skills:** V*lnerability Analysis, Risk Assessm*nt, Cybersecurity Research, CVSS A*alysis, Technical Writing
 
 ## 🛠️ Technical Skills
 **Operating Systems:** Windows 10/11, Linux

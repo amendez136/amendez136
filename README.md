@@ -2,7 +2,7 @@
 
 Cybersecurity student at Moraine Valley Community College with experience in networking, vulnerability analysis, IT support, and cybersecurity research. Passionate about network security, system administration, and identifying security risks through hands-on projects and technical analysis.
 
-## Education
+## 🎓 Education
 
 **Moraine Valley Community College**
 - A.A.S in Cybersecurity (In-Progress)
@@ -13,7 +13,7 @@ Cybersecurity student at Moraine Valley Community College with experience in net
 - CCNA: Introduction to Networks (Digital Badge) | Cisco Networking Academy | 2026
   - Verify: https://www.credly.com/badges/ad790bed-1eda-4406-98ba-d50793f8bf73/public_url
 - CCNA: Introduction to Networks (Course Completion Certificate) | Cisco Networking Academy | 2026
-- IT Essentials/Managing IT (Course Completion Certificate) | Cisco Networking Academy | (2025)
+- IT Essentials/Managing IT (Course Completion Certificate) | Cisco Networking Academy | 2025
 
 ## 🚀 Featured Projects
 

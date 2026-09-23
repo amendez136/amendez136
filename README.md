@@ -17,7 +17,9 @@ Cybersecurity student at Moraine Valley Community College.
 ## 🚀 Featured Projects
 
 ### Coffee Shop Wi-Fi Network Design
-Academic Project | Moraine Valley Community College | To view, click **[presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Wifi%20coffeeshop%20Installment.pptx?d=w694d5cc72d504168a2708b5d74c19328&csf=1&web=1&e=f5gdhu)**
+Academic Project | Moraine Valley Community College 
+
+To view, click **[presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Wifi%20coffeeshop%20Installment.pptx?d=w694d5cc72d504168a2708b5d74c19328&csf=1&web=1&e=f5gdhu)**
 
 Designed a secure and scalable Wi-Fi network for a coffee shop environment. Created a network plan addressing wireless coverage, network security, and connectivity requirements.
 
@@ -25,6 +27,7 @@ Designed a secure and scalable Wi-Fi network for a coffee shop environment. Crea
 
 ### Browser Vendor Vulnerability Analysis
 Academic Project | Moraine Valley Community College
+
 To view, click **[presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Documents/Product%20Analysis%20Project%20(1).pptx?d=wa11c0b0307e249418f17fa85ee8f706e&csf=1&web=1&e=Hwu75i)** and **[analysis report](https://1drv.ms/w/c/279738157c85cbcf/IQCjBGAstlYgSLz5Kt_IzCL7AWVxsO2xSltL29yxQKnDImk?e=dlNKiT)**.
 
 Researched and compared major web browser vendors based on security features, vulnerability management, patching practices, and overall security posture. Produced a technical report with recommendations and supporting analysis.

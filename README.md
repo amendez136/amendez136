@@ -17,7 +17,7 @@ Cybersecurity student at Moraine Valley Community College.
 ## 🚀 Featured Projects
 
 ### Coffee Shop Wi-Fi Network Design
-Academic Project | Moraine Valley Community College
+Academic Project | Moraine Valley Community College | **[Repository](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Wifi%20coffeeshop%20Installment.pptx?d=w694d5cc72d504168a2708b5d74c19328&csf=1&web=1&e=f5gdhu)**
 
 Designed a secure and scalable Wi-Fi network for a coffee shop environment. Created a network plan addressing wireless coverage, network security, and connectivity requirements.
 

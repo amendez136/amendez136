@@ -1,8 +1,9 @@
 ## Hi, I'm Antonio Mendez! 👋
 
-Cybersecurity student at Moraine Valley Community College.
+Cybersecurity student at Moraine Valley Community College with experience in networking, vulnerability analysis, IT support, and cybersecurity research. Passionate about network security, system administration, and identifying security risks through hands-on projects and technical analysis.
 
 ## Education
+
 **Moraine Valley Community College**
 - A.A.S in Cybersecurity (In-Progress)
 - Computer Support Associate Certificate (2026)

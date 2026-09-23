@@ -10,9 +10,12 @@ Cybersecurity student at Moraine Valley Community College with experience in net
 - A.A Liberal Arts Transfer Degree (2024)
 
 ## 🏆 Certifications & Badges
+
 - CCNA: Introduction to Networks (Digital Badge) | Cisco Networking Academy | 2026
-  - Credly Badge: https://www.credly.com/badges/ad790bed-1eda-4406-98ba-d50793f8bf73/public_url
+  - **[View credential](https://www.credly.com/badges/ad790bed-1eda-4406-98ba-d50793f8bf73/public_url)**
+
 - CCNA: Introduction to Networks (Course Completion Certificate) | Cisco Networking Academy | 2026
+
 - IT Essentials/Managing IT (Course Completion Certificate) | Cisco Networking Academy | 2025
 
 ## 🚀 Featured Projects

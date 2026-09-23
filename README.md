@@ -24,6 +24,7 @@ Academic Project | Moraine Valley Community College
  
 Designed a secure Wi-Fi 6 network infrastructure for a coffee shop supporting 40+ simultaneous users. Implemented VLAN segmentation, guest network isolation, WPA2/WPA3 security, QoS configuration, and wireless coverage planning. Developed network documentation, troubleshooting procedures, and security recommendations.
  
+
 **Skills:** Network Design, VLANs, Wireless Networking, IP Addressing, WPA3 Security, QoS, Cisco Networking Concepts
 
 ### Browser Vendor Vulnerability Analysis
@@ -31,6 +32,7 @@ Academic Project | Moraine Valley Community College | https://github.com/amendez
 
 Conducted a comparative security analysis of 3 browsers using vulnerability and CVSS data collected over a 10-year period. Evaluated browser security features, attack trends, and vulnerability management practices to develop security recommendations.
  
+
 **Skills:** V*lnerability Analysis, Risk Assessm*nt, Cybersecurity Research, CVSS A*alysis, Technical Writing
 
 ## 🛠️ Technical Skills

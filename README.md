@@ -24,7 +24,7 @@ Designed a secure and scalable Wi-Fi network for a coffee shop environment. Crea
 
 **Skills:** Networking, Wireless Networking, IP Addressing, Network Design, Technical Presentations
 
-To view, click **[presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Wifi%20coffeeshop%20Installment.pptx?d=w694d5cc72d504168a2708b5d74c19328&csf=1&web=1&e=f5gdhu)**
+Click the repository to view https://github.com/amendez136/Network_Wifi_Coffee_Shop_Installation
 
 ### Browser Vendor Vulnerability Analysis
 Academic Project | Moraine Valley Community College

@@ -35,8 +35,7 @@ Conducted a comparative security analysis of 3 browsers using vulnerability and 
 
 **Skills:** Vulnerability Analysis, Risk Assessment, Cybersecurity Research, CVSS Analysis, Technical Writing
 
-## 🛠️ Technical Skills
- 
+## 🛠️ Technical Skills 
 ### Networking
 - TCP/IP
 - IP Addressing

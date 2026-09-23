@@ -17,14 +17,14 @@ Cybersecurity student at Moraine Valley Community College with experience in net
 
 ## 🚀 Featured Projects
 
-### Coffee Shop Wi-Fi Network Design
-Academic Project | Moraine Valley Community College 
+### Network+ Wifi Coffee Shop Installation
+Academic Project | Moraine Valley Community College | https://github.com/amendez136/Network_Wifi_Coffee_Shop_Installation
 
-Designed a secure and scalable Wi-Fi network for a coffee shop environment. Created a network plan addressing wireless coverage, network security, and connectivity requirements.
-
-**Skills:** Networking, Wireless Networking, IP Addressing, Network Design, Technical Presentations
-
-Click the repository to view https://github.com/amendez136/Network_Wifi_Coffee_Shop_Installation
+Academic Project | Moraine Valley Community College
+ 
+Designed a secure Wi-Fi 6 network infrastructure for a coffee shop supporting 40+ simultaneous users. Implemented VLAN segmentation, guest network isolation, WPA2/WPA3 security, QoS configuration, and wireless coverage planning. Developed network documentation, troubleshooting procedures, and security recommendations.
+ 
+**Skills:** Network Design, VLANs, Wireless Networking, IP Addressing, WPA3 Security, QoS, Cisco Networking Concepts
 
 ### Browser Vendor Vulnerability Analysis
 Academic Project | Moraine Valley Community College

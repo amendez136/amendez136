@@ -33,7 +33,7 @@ Academic Project | Moraine Valley Community College | https://github.com/amendez
 Conducted a comparative security analysis of 3 browsers using vulnerability and CVSS data collected over a 10-year period. Evaluated browser security features, attack trends, and vulnerability management practices to develop security recommendations.
  
 
-**Skills:** V*lnerability Analysis, Risk Assessm*nt, Cybersecurity Research, CVSS A*alysis, Technical Writing
+**Skills:** Vulnerability Analysis, Risk Assessment, Cybersecurity Research, CVSS Analysis, Technical Writing
 
 ## 🛠️ Technical Skills
 **Operating Systems:** Windows 10/11, Linux

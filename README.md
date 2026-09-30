@@ -33,16 +33,6 @@ Analyzed browser vulnerabilities and CVSS data over a 10-year period to identify
 
 🔗 Repository: [Product_Vulnerability_Analysis](https://github.com/amendez136/Product_Vulnerability_Analysis)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mendeza3830) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amendez136&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amendez136&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amendez136&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amendez136&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 

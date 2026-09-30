@@ -1,6 +1,6 @@
 # Hi, I'm Antonio Mendez 👋
 
-Cybersecurity student at Moraine Valley Community College with experience in networking, vulnerability analysis, IT support, and cybersecurity research. Passionate about network security, system administration, and identifying security risks through hands-on projects and technical analysis.
+Cybersecurity student experienced in networking, vulnerability analysis, IT support, and cybersecurity research. Passionate about network security, system administration, and identifying security risks through hands-on projects and technical analysis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

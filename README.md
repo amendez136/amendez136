@@ -13,21 +13,24 @@ Cybersecurity student at Moraine Valley Community College with interests in netw
  
 ## 🛠️ Technical Skills
 **Networking:** TCP/IP, Subnetting, VLANs, Wireless Networking
+
 **Security:** Vulnerability Analysis, Risk Assessment, Endpoint Protection
+
 **Tools:** Wireshark, Cisco Packet Tracer
+
 **Operating Systems:** Windows, Linux
+
 **Programming:** Python, HTML, CSS
 
 ## 🚀 Featured Projects
- 
 ### Network WiFi Coffee Shop Installation
 Designed a secure Wi-Fi 6 network supporting 40+ users with VLAN segmentation, guest isolation, QoS, and WPA3 security.
- 
+
 🔗 Repository: [Network_Wifi_Coffee_Shop_Installation](https://github.com/amendez136/Network_Wifi_Coffee_Shop_Installation)
- 
+
 ### Browser Vendor Vulnerability Analysis
 Analyzed browser vulnerabilities and CVSS data over a 10-year period to identify security trends and risk factors.
- 
+
 🔗 Repository: [Product_Vulnerability_Analysis](https://github.com/amendez136/Product_Vulnerability_Analysis)
 
 ## 🌐 Socials:

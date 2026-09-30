@@ -13,7 +13,7 @@ Cybersecurity student experienced in networking, vulnerability analysis, IT supp
 
 ## 🏆 Certifications
 -CCNA: Introduction to Networks (Digital Badge) | Cisco Networking Academy | 2026
- View credential 
+     View credential
 -CCNA: Introduction to Networks (Course Completion Certificate) | Cisco Networking Academy | 2026
 -IT Essentials/Managing IT (Course Completion Certificate) | Cisco Networking Academy | 2025
 

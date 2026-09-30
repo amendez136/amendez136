@@ -36,37 +36,19 @@ Conducted a comparative security analysis of 3 browsers using vulnerability and 
 
 **Skills:** Vulnerability Analysis, Risk Assessment, Cybersecurity Research, CVSS Analysis, Technical Writing
 
-## 🛠️ Technical Skills 
-### Networking
-- TCP/IP
-- IP Addressing
-- Subnetting
-- VLANs
-- Wireless Networking
- 
-### Security
-- Security Fundamentals
-- Endpoint Protection
-- Malware Awareness
-- Vulnerability Analysis
- 
-### Tools
-- Wireshark
-- Cisco Packet Tracer
- 
-### Operating Systems
-- Windows 10/11
-- Linux
- 
-### Programming
-- Python
- 
-### IT Support
-- Troubleshooting
-- Hardware Support
-- Software Support
-
-
+## 🛠️ Technical Skills
+ 
+**Networking:** TCP/IP • IP Addressing • Subnetting • VLANs • Wireless Networking
+ 
+**Security:** Security Fundamentals • Endpoint Protection • Malware Awareness • Vulnerability Analysis
+ 
+**Tools:** Wireshark • Cisco Packet Tracer
+ 
+**Operating Systems:** Windows 10/11 • Linux
+ 
+**Programming:** Python
+ 
+**IT Support:** Troubleshooting • Hardware Support • Software Support
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mendeza3830) 

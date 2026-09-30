@@ -25,7 +25,7 @@ Cybersecurity student experienced in networking, vulnerability analysis, IT supp
 
 **Security:** Vulnerability Analysis, Risk Assessment, Endpoint Protection
 
-**Programming:** Python, HTML, CSS
+**Tools:** Wireshark, Cisco Packet Tracer
 
 ## 🚀 Featured Projects
 ### Network WiFi Coffee Shop Installation

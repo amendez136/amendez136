@@ -25,10 +25,6 @@ Cybersecurity student experienced in networking, vulnerability analysis, IT supp
 
 **Security:** Vulnerability Analysis, Risk Assessment, Endpoint Protection
 
-**Tools:** Wireshark, Cisco Packet Tracer
-
-**Operating Systems:** Windows, Linux
-
 **Programming:** Python, HTML, CSS
 
 ## 🚀 Featured Projects

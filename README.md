@@ -38,15 +38,15 @@ Conducted a comparative security analysis of 3 browsers using vulnerability and 
 
 ## 🛠️ Technical Skills
 **Networking:** TCP/IP • IP Addressing • Subnetting • VLANs • Wireless Networking
- 
+
 **Security:** Security Fundamentals • Endpoint Protection • Malware Awareness • Vulnerability Analysis
- 
+
 **Tools:** Wireshark • Cisco Packet Tracer
- 
+
 **Operating Systems:** Windows 10/11 • Linux
- 
-**Programming:** Python
- 
+
+**Programming:** Python, CSS, HTML
+
 **IT Support:** Troubleshooting • Hardware Support • Software Support
 
 ## 🌐 Socials:

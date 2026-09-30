@@ -1,30 +1,23 @@
 # Hi, I'm Antonio Mendez 👋
- 
+
 Cybersecurity student at Moraine Valley Community College with interests in network security, vulnerability analysis, system administration, and IT support.
  
 ## 🎓 Education
- 
 - A.A.S. Cybersecurity (In Progress)
-- Computer Support Associate Certificate (Expected 2026)
+- - Computer Support Associate Certificate (Expected 2026)
 - A.A. Liberal Arts Transfer Degree (2024)
  
 ## 🏆 Certifications
- 
 - Cisco CCNA: Introduction to Networks
 - Cisco IT Essentials / Managing IT
  
 ## 🛠️ Technical Skills
- 
 **Networking:** TCP/IP, Subnetting, VLANs, Wireless Networking
- 
 **Security:** Vulnerability Analysis, Risk Assessment, Endpoint Protection
- 
 **Tools:** Wireshark, Cisco Packet Tracer
- 
 **Operating Systems:** Windows, Linux
- 
 **Programming:** Python, HTML, CSS
- 
+
 ## 🚀 Featured Projects
  
 ### Network WiFi Coffee Shop Installation

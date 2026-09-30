@@ -13,7 +13,7 @@ Cybersecurity student at Moraine Valley Community College with interests in netw
 
 ## 🎓 Education
 - A.A.S. Cybersecurity (In Progress)
-- - Computer Support Associate Certificate (Expected 2026)
+- Computer Support Associate Certificate (2026)
 - A.A. Liberal Arts Transfer Degree (2024)
 
 ## 🏆 Certifications

@@ -14,7 +14,7 @@ Cybersecurity student experienced in networking, vulnerability analysis, IT supp
 ## 🏆 Certifications
 - CCNA: Introduction to Networks (Course Completion Certificate), Cisco Networking Academy - 2026
 - CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
-  [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
+  - [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
 - IT Essentials / Managing IT, Cisco Networking Academy - 2026
 
 ## 🎓 Education

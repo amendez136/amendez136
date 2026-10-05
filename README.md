@@ -12,9 +12,10 @@ Cybersecurity student experienced in networking, vulnerability analysis, IT supp
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## 🏆 Certifications
-- CCNA: Introduction to Networks (Certificate of Course Completion) | Cisco Networking Academy | 2026
-- CCNA: Introduction to Networks Digital Badge | Cisco Networking Academy | 2026
-- IT Essentials / Managing IT | Cisco Networking Academy | 2026
+- CCNA: Introduction to Networks (Course Completion Certificate), Cisco Networking Academy - 2026
+- CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
+  [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
+- IT Essentials / Managing IT, Cisco Networking Academy - 2026
 
 ## 🎓 Education
 - A.A.S. Cybersecurity (In Progress)

@@ -1,6 +1,7 @@
 # Hi, I'm Antonio Mendez 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) 
+
 Cybersecurity student experienced in networking, vulnerability analysis, IT support, and cybersecurity research. Passionate about network security, system administration, and identifying security risks through hands-on projects and technical analysis.
 
 # 💻 Tech Stack:

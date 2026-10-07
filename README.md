@@ -16,7 +16,7 @@ Security: ![Vulnerability Management](https://img.shields.io/badge/Vulnerability
 
 Hardware: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-blue) ![Upgrades](https://img.shields.io/badge/Upgrades-green) ![Peripheral Support](https://img.shields.io/badge/Peripheral%20Support-indigo)
 
-Software:
+Software: ![Installation](https://img.shields.io/badge/Installation-orange) ![Drivers](https://img.shields.io/badge/Drivers-blue) ![Updates](https://img.shields.io/badge/Updates-cyan)
 
 ## 🏆 Certifications
 - CCNA: Introduction to Networks, Cisco Networking Academy - 2026

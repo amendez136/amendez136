@@ -12,11 +12,6 @@ Cybersecurity student experienced in networking, vulnerability analysis, IT supp
 - CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
   - [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
 - IT Essentials, Cisco Networking Academy - 2026
-
-## 🎓 Education
-- A.A.S. Cybersecurity (In Progress)
-- Computer Support Associate Certificate (2026)
-- A.A. Liberal Arts Transfer Degree (2024)
  
 ## 🛠️ Technical Skills
 **Networking:** TCP/IP, Subnetting, VLANs, Wireless Networking

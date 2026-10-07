@@ -16,7 +16,12 @@ I use GitHub to document projects, coursework, and hands-on labs as I build expe
 - IT Essentials, Cisco Networking Academy - 2026
  
 ## 🛠️ Technical Skills
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-purple) ![Subnetting](https://img.shields.io/badge/Subnetting-blue) ![VLANS](https://img.shields.io/badge/VLANS-red) ![Wireless Networking](https://img.shields.io/badge/Wireless%20Networking-yellow) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet) ![Risk Assessment](![Static Badge](https://img.shields.io/badge/Risk%20Assessment-black)
+
+## Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-purple) ![Subnetting](https://img.shields.io/badge/Subnetting-blue) ![VLANS](https://img.shields.io/badge/VLANS-red) ![Wireless Networking](https://img.shields.io/badge/Wireless%20Networking-yellow) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet) 
+
+## Security 
+![Risk Assessment](![Static Badge](https://img.shields.io/badge/Risk%20Assessment-black)
 
 
 ## 🚀 Featured Projects

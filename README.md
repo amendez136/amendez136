@@ -40,8 +40,6 @@ Analyzed browser vulnerabilities and CVSS data over a 10-year period to identify
 
 🔗 Repository: [Product_Vulnerability_Analysis](https://github.com/amendez136/Product_Vulnerability_Analysis)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amendez136&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 

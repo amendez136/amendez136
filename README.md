@@ -11,6 +11,7 @@ I use GitHub to document projects, coursework, and hands-on labs as I build expe
  
 ## 🛠️ Technical Skills
 Networking: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-purple) ![Subnetting](https://img.shields.io/badge/Subnetting-blue) ![VLANS](https://img.shields.io/badge/VLANS-red) ![Wireless Networking](https://img.shields.io/badge/Wireless%20Networking-yellow) 
+
 Security: ![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-black) ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-white) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet)
 
 ## 🏆 Certifications

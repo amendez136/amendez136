@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) 
 
-Cybersecurity student with hands-on experience in networking, vulnerability analysis, Linux administration, and technical support. Skilled in identifying security risks through research, data analysis, and practical cybersecurity projects. Currently expanding my knowledge in network security, system administration, and cybersecurity operations while pursuing industry certifications and academic credentials.
+Cybersecurity student with experience in networking, Linux, and vulnerability analysis. Dedicated to strengthening security through research, technical analysis, and hands-on projects.
 
 I use GitHub to document projects, coursework, and hands-on labs as I build experience in cybersecurity, network administration, and system security.
 

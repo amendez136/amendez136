@@ -14,7 +14,7 @@ Networking: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-purple) ![Subnetting
 
 Security: ![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-green) ![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-black) ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-white) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet) ![Malware Awareness](https://img.shields.io/badge/Malware%20Awareness-brown)
 
-Hardware:
+Hardware: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-blue) ![](Upgrades](https://img.shields.io/badge/Upgrades-green)
 
 Software:
 

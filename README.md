@@ -8,12 +8,6 @@ I use GitHub to document projects, coursework, and hands-on labs as I build expe
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## 🏆 Certifications
-- CCNA: Introduction to Networks, Cisco Networking Academy - 2026
-- CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
-  - [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
-- IT Essentials, Cisco Networking Academy - 2026
  
 ## 🛠️ Technical Skills
 
@@ -23,6 +17,11 @@ I use GitHub to document projects, coursework, and hands-on labs as I build expe
 ## Security 
 ![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-black) ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-white) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet)
 
+## 🏆 Certifications
+- CCNA: Introduction to Networks, Cisco Networking Academy - 2026
+- CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
+  - [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
+- IT Essentials, Cisco Networking Academy - 2026
 
 ## 🚀 Featured Projects
 ### Network WiFi Coffee Shop Installation

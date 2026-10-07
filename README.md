@@ -16,9 +16,16 @@ I use GitHub to document projects, coursework, and hands-on labs as I build expe
 - IT Essentials, Cisco Networking Academy - 2026
  
 ## 🛠️ Technical Skills
-**Networking:** TCP/IP, Subnetting, VLANs, Wireless Networking
 
-**Security:** Vulnerability Analysis, Risk Assessment, Endpoint Protection
+| Skills                                        | Associated Project                  |
+|-------------------------------------------------------------------------------------|
+| TCP/IP
+| Subnetting
+| VLANs
+| Wireless Networking
+| Vulnerability Analysis
+| Risk Assessment
+| Endpoint Protection
 
 **Tools:** Wireshark, Cisco Packet Tracer
 

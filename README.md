@@ -35,6 +35,11 @@ Analyzed browser vulnerabilities and CVSS data over a 10-year period to identify
 
 🔗 Repository: [Product_Vulnerability_Analysis](https://github.com/amendez136/Product_Vulnerability_Analysis)
 
+### Incident Response Procedures
+Created detailed incident response procedures to guide organizations through identifying, investigating, containing, and recovering from cybersecurity incidents while minimizing operational impact.
+
+🔗 Repository: [Incident Response Procedures]()
+
 
 
 

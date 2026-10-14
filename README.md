@@ -1,8 +1,6 @@
 # Hi, I'm Antonio Mendez 👋
 
 # About Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) 
-
 Cybersecurity student with experience in networking, Linux, and vulnerability analysis. Dedicated to strengthening security through research, technical analysis, and hands-on projects.
 
 I use GitHub to document projects, coursework, and hands-on labs as I build experience in cybersecurity, network administration, and system security.
@@ -24,6 +22,8 @@ Software: ![Installation](https://img.shields.io/badge/Installation-orange) ![Dr
 - CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
   - [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
 - IT Essentials, Cisco Networking Academy - 2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) 
 
 ## 🚀 Featured Projects
 ### Incident Response Procedures

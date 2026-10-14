@@ -6,7 +6,7 @@ Cybersecurity student with experience in networking, Linux, and vulnerability an
 I use GitHub to document projects, coursework, and hands-on labs as I build experience in cybersecurity, network administration, and system security.
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 ## 🛠️ Technical Skills
 Security: ![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-green) ![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-black) ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-white) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet) ![Malware Awareness](https://img.shields.io/badge/Malware%20Awareness-brown)
@@ -17,23 +17,19 @@ Hardware: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-blue) ![Upgr
 
 Software: ![Installation](https://img.shields.io/badge/Installation-orange) ![Drivers](https://img.shields.io/badge/Drivers-blue) ![Updates](https://img.shields.io/badge/Updates-cyan)
 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) 
 
-## 🚀 Featured Projects
-### Incident Response Procedures
-Created detailed incident response procedures to guide organizations through identifying, investigating, containing, and recovering from cybersecurity incidents while minimizing operational impact.
+style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amendez136&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=amendez136&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amendez136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-🔗 Repository: [Incident Response Procedures](https://github.com/amendez136/Incident_Response_Procedures_Project)
+---
+[![](https://komarev.com/ghpvc/?username=amendez136&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Browser Vendor Vulnerability Analysis
-Analyzed browser vulnerabilities and CVSS data over a 10-year period to identify security trends and risk factors.
-
-🔗 Repository: [Product_Vulnerability_Analysis](https://github.com/amendez136/Product_Vulnerability_Analysis)
-
-### Network WiFi Coffee Shop Installation
-Designed a secure Wi-Fi 6 network supporting 40+ users with VLAN segmentation, guest isolation, QoS, and WPA3 security.
-
-🔗 Repository: [Network_Wifi_Coffee_Shop_Installation](https://github.com/amendez136/Network_Wifi_Coffee_Shop_Installation)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 

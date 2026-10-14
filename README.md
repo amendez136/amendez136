@@ -12,15 +12,6 @@ Currently, I'm expanding my knowledge through Cisco Networking Academy coursewor
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- 
-## 🛠️ Technical Skills
-Security: ![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-green) ![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-black) ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-white) ![Endpoint Protection](https://img.shields.io/badge/Endpoint%20Protection-violet) ![Malware Awareness](https://img.shields.io/badge/Malware%20Awareness-brown)
-
-Networking: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-purple) ![Subnetting](https://img.shields.io/badge/Subnetting-blue) ![VLANS](https://img.shields.io/badge/VLANS-red) ![Wireless Networking](https://img.shields.io/badge/Wireless%20Networking-yellow) ![Network Administration](https://img.shields.io/badge/Network%20Administration-grey)
-
-Hardware: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-blue) ![Upgrades](https://img.shields.io/badge/Upgrades-green) ![Peripheral Support](https://img.shields.io/badge/Peripheral%20Support-indigo)
-
-Software: ![Installation](https://img.shields.io/badge/Installation-orange) ![Drivers](https://img.shields.io/badge/Drivers-blue) ![Updates](https://img.shields.io/badge/Updates-cyan)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=amendez136&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>

@@ -17,12 +17,6 @@ Hardware: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-blue) ![Upgr
 
 Software: ![Installation](https://img.shields.io/badge/Installation-orange) ![Drivers](https://img.shields.io/badge/Drivers-blue) ![Updates](https://img.shields.io/badge/Updates-cyan)
 
-## 🏆 Certifications
-- CCNA: Introduction to Networks, Cisco Networking Academy - 2026
-- CCNA: Introduction to Networks (Digital Badge), Cisco Networking Academy - 2026
-  - [View Credential](https://www.credly.com/earner/earned/badge/ad790bed-1eda-4406-98ba-d50793f8bf73)
-- IT Essentials, Cisco Networking Academy - 2026
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mendez673) 
 
 ## 🚀 Featured Projects

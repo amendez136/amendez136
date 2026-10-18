@@ -7,8 +7,7 @@ This GitHub portfolio showcases hands-on cybersecurity projects, home labs, netw
 
 Through Cisco Networking Academy coursework, Linux and SQL training, and practical security projects, I'm continually developing skills in problem-solving, risk assessment, network administration, and secure infrastructure design.
 
-## Resume
-
+# Resume
 📄 You can view my resume by clicking [here](https://studentmorainevalley-my.sharepoint.com/:w:/r/personal/mendeza48_student_morainevalley_edu/Documents/IT%20Resume%20(1).docx?d=w7d921f726b2f4f7a9c9878062b26929b&csf=1&web=1&e=jf1RAI).
 
 # 💻 Tech Stack:

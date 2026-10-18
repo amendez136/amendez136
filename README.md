@@ -1,5 +1,4 @@
 # Hi, I'm Antonio Mendez 👋
-
 # About Me
 I'm a Cybersecurity student with a growing foundation in network security, Linux administration, vulnerability assessment, and incident response.
 
